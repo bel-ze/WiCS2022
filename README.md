@@ -29,8 +29,10 @@
 - Leave complaint under FAQ "Questions" section and contributtors will look into it shortly. 
 
 # Contributors: 
-- Maybelle Zheng
 - Rosa Galvez
 - Sabrina Aktar
+- Maybelle Zheng
+
+
 
 # License: MIT License
