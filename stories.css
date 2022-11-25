@@ -160,17 +160,16 @@ H1{
   font-size: 50px;
   width: 100%;
   text-align: left;
-  padding-bottom: 15%;
 }
 .heading2{
   font-size: 31px;
   width: 100%;
   text-align: left;
+  font-weight:normal
 }
 
 .heading3{
   font-size: 20px;
   width: 100%;
   text-align: left;
-  padding-bottom: 15%;
 }
