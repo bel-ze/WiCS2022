@@ -1,4 +1,4 @@
-## Women Overcoming Adversity
+## Women Overcoming Adversity: https://bel-ze.github.io/WiCS2022/
 # WOA is a website that is inspired by Reddit where users can read stories from Women overcoming challenges in the tech industry while having the chance to engage along with other users in the joined community. 
 
 ==DESCRITION==
